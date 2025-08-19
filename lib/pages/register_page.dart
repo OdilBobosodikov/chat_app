@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../auth/auth_service.dart';
+import '../services/auth_service.dart';
 import '../components/my_button.dart';
 import '../components/my_textfield.dart';
 import '../utils/error_alert.dart';
